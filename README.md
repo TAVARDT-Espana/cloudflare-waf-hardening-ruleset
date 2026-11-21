@@ -7,7 +7,7 @@
 
 Reglas avanzadas de WAF y mitigación perimetral para Cloudflare, conforme a las directrices del Esquema Nacional de Seguridad (ENS) y el RGPD / LOPDGDD.
 
-Desarrollado y mantenido por el equipo de ingeniería de seguridad perimetral de **[{entity}]({corp_service})**.
+Desarrollado y mantenido por el equipo de ingeniería de seguridad perimetral de **[TAVARDT España](https://ag.tavardt.com/es/ciberseguridad/)**.
 
 ---
 
@@ -27,8 +27,8 @@ Este repositorio proporciona un conjunto declarativo de reglas de mitigación pe
 
 Antes de proceder a la aplicación en entornos de producción, verifique las cabeceras de seguridad y la configuración SSL de su dominio mediante las herramientas abiertas de TAVARDT:
 
-* **Auditoría de Cabeceras de Seguridad y SSL:** [Análisis de Cabeceras de Seguridad TAVARDT]({diag_tool})
-* **Catálogo Global de Herramientas:** [TAVARDT Tools España]({diag_hub})
+* **Auditoría de Cabeceras de Seguridad y SSL:** [Análisis de Cabeceras de Seguridad TAVARDT](https://tools.tavardt.com/es/analisis-cabeceras-seguridad/)
+* **Catálogo Global de Herramientas:** [TAVARDT Tools España](https://tools.tavardt.com/es/)
 
 ---
 
@@ -62,12 +62,12 @@ terraform apply -var="zone_id=SU_ZONE_ID"
 
 Si su empresa requiere auditorías de seguridad avanzadas, adecuación al Esquema Nacional de Seguridad (ENS / NIS 2) o ingeniería perimetral especializada:
 
-* **Portal Corporativo:** [{entity}]({corp_service})
-* **Contacto Técnico Especializado:** [Solicitar Consulta Técnica]({corp_contact})
+* **Portal Corporativo:** [TAVARDT España](https://ag.tavardt.com/es/ciberseguridad/)
+* **Contacto Técnico Especializado:** [Solicitar Consulta Técnica](https://ag.tavardt.com/es/contacto/)
 
 ---
 
 ## Licencia
 
 Distribuido bajo licencia de código abierto MIT. Consulte el archivo [`LICENSE`](LICENSE) para más detalles.  
-Copyright (c) 2026 {entity}.
+Copyright (c) 2026 TAVARDT España.
