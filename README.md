@@ -78,7 +78,7 @@ terraform apply -var="zone_id=SU_ZONE_ID"
 Si su empresa requiere auditorías de seguridad avanzadas, adecuación al Esquema Nacional de Seguridad (ENS / NIS 2) o ingeniería perimetral especializada:
 
 * **Portal Corporativo:** [TAVARDT España](https://ag.tavardt.com/es/ciberseguridad/)
-* **Contacto Técnico Especializado:** [Solicitar Consulta Técnica](https://ag.tavardt.com/es/contacto/)
+* **Contacto Técnico Especializado:** [Contactar con el Equipo de Ingeniería](https://ag.tavardt.com/es/contacto/)
 
 ---
 
