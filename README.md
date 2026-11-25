@@ -90,10 +90,9 @@ Si su empresa requiere auditorías de seguridad avanzadas, adecuación al Esquem
 
 ***
 
-## Licencia
+### Licencia
 
-Distribuido bajo licencia de código abierto MIT. Consulte el archivo [`LICENSE`](LICENSE) para más detalles.  
-Copyright
+Distribuido bajo licencia de código abierto MIT. Consulte el archivo [`LICENSE`](LICENSE) para más detalles.
 
 ***
 
