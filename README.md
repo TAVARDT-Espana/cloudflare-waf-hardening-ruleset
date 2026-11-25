@@ -1,13 +1,10 @@
 # Cloudflare WAF Hardening Ruleset y Guía de Seguridad de Borde
 
-[![Licence MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Cloudflare WAF](https://img.shields.io/badge/Cloudflare-WAF%20Hardened-F38020.svg?logo=cloudflare)](https://cloudflare.com)
-[![Language](https://img.shields.io/badge/Language-Español%20(España)-green.svg)](README.md)
 [![Diagnostics Suite](https://img.shields.io/badge/TAVARDT-Diagnostics-5b3cf5.svg)](https://tools.tavardt.com/es/analisis-cabeceras-seguridad/)
+[![Licence MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Reglas avanzadas de WAF y mitigación perimetral para Cloudflare, conforme a las directrices del Esquema Nacional de Seguridad (ENS) y el RGPD / LOPDGDD.
-
-Desarrollado y mantenido por el equipo de ingeniería de seguridad perimetral de **TAVARDT**.
 
 > [!IMPORTANT]
 > **Arquitectura Universal y Agnóstica de Stack:** Este repositorio **no es exclusivo de WordPress**. Ha sido diseñado para blindar **APIs RESTful, microservicios modernos, aplicaciones frontend (Next.js, React, Vue) y backends empresariales (Node.js, Python, Go, Laravel, Java)**. El bloqueo de sondas de CMS actúa como una **capa de higiene perimetral activa**, descartando el ruido ciego de botnets en la red de borde de Cloudflare (< 1ms) antes de que las peticiones maliciosas consuman CPU, conexiones o memoria en sus servidores de origen.
@@ -73,16 +70,7 @@ terraform apply -var="zone_id=SU_ZONE_ID"
 
 ***
 
-## 4. Consultoría Pericial y Soporte Técnico Continuo
-
-Si su empresa requiere auditorías de seguridad avanzadas, adecuación al Esquema Nacional de Seguridad (ENS / NIS 2) o ingeniería perimetral especializada:
-
-* **Portal Corporativo:** **TAVARDT**
-* **Contacto Técnico Especializado:** [Contactar con el Equipo de Ingeniería](https://ag.tavardt.com/es/contacto/)
-
-***
-
-## Enlaces Útiles
+## 4. Enlaces Útiles
 
 * **Portal Corporativo:** https://ag.tavardt.com/es/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/es/
@@ -92,7 +80,7 @@ Si su empresa requiere auditorías de seguridad avanzadas, adecuación al Esquem
 
 ### Licencia
 
-Distribuido bajo licencia de código abierto MIT. Consulte el archivo [`LICENSE`](LICENSE) para más detalles.
+Distribuido bajo licencia de código abierto MIT.
 
 ***
 
